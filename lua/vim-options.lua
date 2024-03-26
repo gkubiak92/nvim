@@ -6,4 +6,3 @@ vim.cmd("set number")
 vim.cmd("set cmdheight=0")
 vim.wo.relativenumber = true
 vim.g.mapleader = " "
-
